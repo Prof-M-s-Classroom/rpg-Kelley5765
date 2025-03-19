@@ -2,10 +2,10 @@
 2  | Alone in the darkness, Titus hears the skittering clicks of aliens closing in. Does he 1) confront it head-on or 2) lure it into an ambush? | 4  | 5
 3  | Leading a formation of Deathwatch, Titus encounters a sealed bulkhead. Does he 1) override the door controls or 2) breach it with explosives? | 5  | 6
 4  | Titus storms into a chamber swarming with Tyranids, purging them with righteous fury until the final beast falls. (Good Ending: Tactical Triumph) | -1 | -1
-5  | The xenos fall into Titus� trap, but reinforcements arrive. Does he 1) hold the line at all costs or 2) regroup into nearby cover? | 7  | 8
+5  | The xenos fall into Titus trap, but reinforcements arrive. Does he 1) hold the line at all costs or 2) regroup into nearby cover? | 7  | 8
 6  | Explosives leave a breach in the hull. Does Titus 1) brace for decompression or 2) charge through relentlessly? | 8  | 9
 7  | Titus stands firm as the horde crashes upon him, his brothers' prayers echoing over the vox as he makes his final stand. (Bad Ending: Heroic Last Stand) | -1 | -1
 8  | The xenos regroup, sensing a chance to overpower. Does Titus 1) call an orbital strike or 2) target their leadership figures? | 10 | 11
 9  | Titus charges through, shattering xenos lines, but his path ultimately leads him into the heart of their nest. (Bad Ending: Noble Sacrifice) | -1 | -1
-10 | The strike obliterates the horde�s advance, granting Titus a decisive victory. (Good Ending: Commanding Conquest) | -1 | -1
+10 | The strike obliterates the hordes advance, granting Titus a decisive victory. (Good Ending: Commanding Conquest) | -1 | -1
 11 | Overwhelmed and outnumbered, Titus battles valiantly but the foul xenos take him down. (Bad Ending: Valiant End) | -1 | -1
